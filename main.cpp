@@ -1,6 +1,6 @@
 /*! \file main.cpp
 *
-* \author Jakub Rosinski, Micha³ Skowroñski 
+* \author Jakub Rosinski, Michal SkowroÃ±ski 
 * \date 2020.05.18
 * \version 1.00.00
 */
