@@ -1,6 +1,6 @@
 /*! \file main.cpp
 *
-* \author Jakub Rosinski, Micha³ Skowroñski . Oskar Smektala
+* \author Jakub Rosinski, MichaÂ³ SkowroÃ±ski . Oskar Smektala
 * \date 2020.05.18
 * \version 1.00.00
 */
@@ -37,7 +37,7 @@ char map[20][20] = {
 
 bool endGame = false;
 bool loose = false;
-int gameSpeed = 200;
+int gameSpeed = 1000;
 int randomNum;
 int maxHealth = 100;
 int yourHealth = maxHealth;
